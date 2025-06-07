@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Personal Portfolio Website
 
 A modern, responsive portfolio website built with HTML, CSS, and JavaScript.
@@ -36,3 +37,7 @@ A modern, responsive portfolio website built with HTML, CSS, and JavaScript.
 ## License
 
 MIT License
+=======
+# DN
+ Personal Portfolio Website
+>>>>>>> 18072b1f20093aff8787ca5381f814a364f2cd3f
